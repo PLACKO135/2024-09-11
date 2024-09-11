@@ -51,3 +51,4 @@ Console.WriteLine($"A több mint négy szótagból álló szavak száma: {szotag
 Console.WriteLine($"A legnagyobb szótagszám: {legnagyobbszotag}");
 
 //3
+int[,] matrix;
