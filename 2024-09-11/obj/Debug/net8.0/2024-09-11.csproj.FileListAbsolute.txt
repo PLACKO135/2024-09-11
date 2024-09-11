@@ -1,0 +1,16 @@
+C:\Users\papp.laszlo.levente\Documents\PL\2024-09-11\2024-09-11\bin\Debug\net8.0\2024-09-11.exe
+C:\Users\papp.laszlo.levente\Documents\PL\2024-09-11\2024-09-11\bin\Debug\net8.0\2024-09-11.deps.json
+C:\Users\papp.laszlo.levente\Documents\PL\2024-09-11\2024-09-11\bin\Debug\net8.0\2024-09-11.runtimeconfig.json
+C:\Users\papp.laszlo.levente\Documents\PL\2024-09-11\2024-09-11\bin\Debug\net8.0\2024-09-11.dll
+C:\Users\papp.laszlo.levente\Documents\PL\2024-09-11\2024-09-11\bin\Debug\net8.0\2024-09-11.pdb
+C:\Users\papp.laszlo.levente\Documents\PL\2024-09-11\2024-09-11\obj\Debug\net8.0\2024-09-11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\papp.laszlo.levente\Documents\PL\2024-09-11\2024-09-11\obj\Debug\net8.0\2024-09-11.AssemblyInfoInputs.cache
+C:\Users\papp.laszlo.levente\Documents\PL\2024-09-11\2024-09-11\obj\Debug\net8.0\2024-09-11.AssemblyInfo.cs
+C:\Users\papp.laszlo.levente\Documents\PL\2024-09-11\2024-09-11\obj\Debug\net8.0\2024-09-11.csproj.CoreCompileInputs.cache
+C:\Users\papp.laszlo.levente\Documents\PL\2024-09-11\2024-09-11\obj\Debug\net8.0\2024-09-11.sourcelink.json
+C:\Users\papp.laszlo.levente\Documents\PL\2024-09-11\2024-09-11\obj\Debug\net8.0\2024-09-11.dll
+C:\Users\papp.laszlo.levente\Documents\PL\2024-09-11\2024-09-11\obj\Debug\net8.0\refint\2024-09-11.dll
+C:\Users\papp.laszlo.levente\Documents\PL\2024-09-11\2024-09-11\obj\Debug\net8.0\2024-09-11.pdb
+C:\Users\papp.laszlo.levente\Documents\PL\2024-09-11\2024-09-11\obj\Debug\net8.0\2024-09-11.genruntimeconfig.cache
+C:\Users\papp.laszlo.levente\Documents\PL\2024-09-11\2024-09-11\obj\Debug\net8.0\ref\2024-09-11.dll
+C:\Users\papp.laszlo.levente\Documents\PL\2024-09-11\2024-09-11\bin\Debug\net8.0\szavak.txt
