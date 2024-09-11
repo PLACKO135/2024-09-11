@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\papp.laszlo.levente\\Documents\\PL\\2024-09-11\\2024-09-11\\2024-09-11.csproj": {}
+    "C:\\Users\\papp.laszlo.levente\\Source\\Repos\\2024-09-11\\2024-09-11\\2024-09-11.csproj": {}
   },
   "projects": {
-    "C:\\Users\\papp.laszlo.levente\\Documents\\PL\\2024-09-11\\2024-09-11\\2024-09-11.csproj": {
+    "C:\\Users\\papp.laszlo.levente\\Source\\Repos\\2024-09-11\\2024-09-11\\2024-09-11.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\papp.laszlo.levente\\Documents\\PL\\2024-09-11\\2024-09-11\\2024-09-11.csproj",
+        "projectUniqueName": "C:\\Users\\papp.laszlo.levente\\Source\\Repos\\2024-09-11\\2024-09-11\\2024-09-11.csproj",
         "projectName": "2024-09-11",
-        "projectPath": "C:\\Users\\papp.laszlo.levente\\Documents\\PL\\2024-09-11\\2024-09-11\\2024-09-11.csproj",
+        "projectPath": "C:\\Users\\papp.laszlo.levente\\Source\\Repos\\2024-09-11\\2024-09-11\\2024-09-11.csproj",
         "packagesPath": "C:\\Users\\papp.laszlo.levente\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\papp.laszlo.levente\\Documents\\PL\\2024-09-11\\2024-09-11\\obj\\",
+        "outputPath": "C:\\Users\\papp.laszlo.levente\\Source\\Repos\\2024-09-11\\2024-09-11\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\papp.laszlo.levente\\AppData\\Roaming\\NuGet\\NuGet.Config",
